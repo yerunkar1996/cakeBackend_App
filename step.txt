@@ -1,0 +1,42 @@
+node -v
+npm -v
+npm init
+npm install express
+npm install -g nodemon  // node index.js
+npm install mongoose
+npm install
+
+/// port env setup
+npm i dotenv
+
+create index.js -- file main---- Controller
+crrate app object
+
+connection with database
+
+Create Schema as required
+
+Create route file -- diff collection
+
+Create API's in router files
+
+Use routes files in index.js
+
+origin 'http://localhost:4200' has been blocked by CORS policy
+npm install cors
+
+//GET API
+Step1:Create api-- backend -- index.js
+
+Step2:Create Service file for api and create its function  -- sovy-service.ts
+
+Step3:Call Get API to Home & Cakes Component.ts
+
+Step4: Show all cakes data in Home & Cakes Component.html
+
+
+
+//POST API
+Step1:- create post api
+
+Step2:- Create add-product form
